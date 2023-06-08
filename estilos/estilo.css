@@ -1,0 +1,68 @@
+.horario{
+    color: white; background-color: deeppink;
+}
+body{
+    font-family: 'montserrat' , sans-serif ;
+}
+.tabla-horario th, .tabla-horario td{
+    border: 1px solid black;
+}
+.tabla-horario{
+    border-collapse: collapse;
+}
+.caste{
+    color: aliceblue;
+    background-color: blue;
+}
+.valen{
+    color: aliceblue;
+    background-color: yellowgreen;
+}
+.mates{
+    color: aliceblue;
+    background-color: red;
+}
+.info{
+    color: aliceblue;
+    background-color: violet;
+}
+.teatro{
+    color: aliceblue;
+    background-color: tomato;
+}
+.empresariales{
+    color: aliceblue;
+    background-color: black;
+}
+.tecno{
+    color: aliceblue;
+    background-color: aqua;
+}
+.historia{
+    color: aliceblue;
+    background-color: chartreuse;
+}
+.ef{
+    color: aliceblue;
+    background-color: slateblue;
+}
+.religion{
+    color: black;
+    background-color: saddlebrown;
+}
+.patio1{
+    color: aliceblue;
+    background-color: cornflowerblue;
+}
+.patio2{
+    color: aliceblue;
+    background-color: tan;
+}
+.tutoria{
+    color: aliceblue;
+    background-color: burlywood;
+}
+.ingles{
+    color: black;
+    background-color: yellow;
+}
